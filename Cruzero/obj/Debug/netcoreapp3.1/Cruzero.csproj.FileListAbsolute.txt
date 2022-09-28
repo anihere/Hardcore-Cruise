@@ -1,0 +1,14 @@
+C:\Users\Ana Maria Romero\source\repos\Cruzero\Cruzero\bin\Debug\netcoreapp3.1\Cruzero.exe
+C:\Users\Ana Maria Romero\source\repos\Cruzero\Cruzero\bin\Debug\netcoreapp3.1\Cruzero.deps.json
+C:\Users\Ana Maria Romero\source\repos\Cruzero\Cruzero\bin\Debug\netcoreapp3.1\Cruzero.runtimeconfig.json
+C:\Users\Ana Maria Romero\source\repos\Cruzero\Cruzero\bin\Debug\netcoreapp3.1\Cruzero.runtimeconfig.dev.json
+C:\Users\Ana Maria Romero\source\repos\Cruzero\Cruzero\bin\Debug\netcoreapp3.1\Cruzero.dll
+C:\Users\Ana Maria Romero\source\repos\Cruzero\Cruzero\bin\Debug\netcoreapp3.1\Cruzero.pdb
+C:\Users\Ana Maria Romero\source\repos\Cruzero\Cruzero\obj\Debug\netcoreapp3.1\Cruzero.csproj.AssemblyReference.cache
+C:\Users\Ana Maria Romero\source\repos\Cruzero\Cruzero\obj\Debug\netcoreapp3.1\Cruzero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Maria Romero\source\repos\Cruzero\Cruzero\obj\Debug\netcoreapp3.1\Cruzero.AssemblyInfoInputs.cache
+C:\Users\Ana Maria Romero\source\repos\Cruzero\Cruzero\obj\Debug\netcoreapp3.1\Cruzero.AssemblyInfo.cs
+C:\Users\Ana Maria Romero\source\repos\Cruzero\Cruzero\obj\Debug\netcoreapp3.1\Cruzero.csproj.CoreCompileInputs.cache
+C:\Users\Ana Maria Romero\source\repos\Cruzero\Cruzero\obj\Debug\netcoreapp3.1\Cruzero.dll
+C:\Users\Ana Maria Romero\source\repos\Cruzero\Cruzero\obj\Debug\netcoreapp3.1\Cruzero.pdb
+C:\Users\Ana Maria Romero\source\repos\Cruzero\Cruzero\obj\Debug\netcoreapp3.1\Cruzero.genruntimeconfig.cache
