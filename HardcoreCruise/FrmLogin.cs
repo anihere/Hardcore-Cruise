@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Runtime.InteropServices;
 using Entidades;
 
 namespace HardcoreCruise
@@ -18,7 +19,10 @@ namespace HardcoreCruise
         {
             InitializeComponent();
         }
-
+        [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
+        private extern static void ReleaseCapture();
+        [DllImport("user32.DLL", EntryPoint = "SendMessage")] 
+        private extern static void SendMessage(System.IntPtr hwnd, int wmsg, int wparam, int lparam);
         private void FrmLogin_Load(object sender, EventArgs e)
         {
             lb_mensajeError.Visible = false;
@@ -52,11 +56,7 @@ namespace HardcoreCruise
             return Validador.ValidarTexto(usuario) && Validador.ValidarTexto(pass);
         }
 
-        private void btn_Cancelar_Click(object sender, EventArgs e)
-        {
-            Close();
-        }
-
+      
         private void btn_Aceptar_Click_1(object sender, EventArgs e)
         {
             string usuario = this.txt_usuario.Text;
@@ -78,6 +78,70 @@ namespace HardcoreCruise
             lb_mensajeError.Text = "ERROR, REINGRESE DATOS";
             lb_mensajeError.Visible = true;
         }
+        }
+
+        
+        
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void txt_usuario_Enter(object sender, EventArgs e)
+        {
+            if (txt_usuario.Text == "USUARIO")
+            {
+                txt_usuario.Text = "";
+                txt_usuario.ForeColor = Color.DimGray;
+
+            }
+        }
+
+        private void txt_usuario_Leave(object sender, EventArgs e)
+        {
+            if(txt_usuario.Text=="")
+            {
+                txt_usuario.ForeColor = Color.DimGray;
+            }
+        }
+
+        private void txt_password_Enter(object sender, EventArgs e)
+        {
+            if (txt_password.Text == "PASSWORD")
+            {
+                txt_password.Text = "";
+                txt_password.ForeColor = Color.DimGray;
+                txt_password.UseSystemPasswordChar = true;
+
+            }
+        }
+
+        private void txt_password_Leave(object sender, EventArgs e)
+        {
+            if (txt_password.Text == "")
+            {
+            
+                txt_password.ForeColor = Color.DimGray;
+                txt_password.UseSystemPasswordChar = false;
+            }
+        }
+
+        private void btnminimizar_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Minimized; 
+        }
+
+        private void FrmLogin_MouseDown(object sender, MouseEventArgs e)
+        {
+            ReleaseCapture();
+            SendMessage(this.Handle, 0x112, 0xf012, 0);
+        }
+
+        private void panel1_MouseDown(object sender, MouseEventArgs e)
+        {
+            ReleaseCapture();
+            SendMessage(this.Handle, 0x112, 0xf012, 0);
         }
     }
 }

@@ -25,3 +25,4 @@ C:\Users\Ana Maria Romero\source\repos\Cruzero\HardcoreCruise\bin\Debug\netcorea
 C:\Users\Ana Maria Romero\source\repos\Cruzero\HardcoreCruise\bin\Debug\netcoreapp3.1\Cruzero.runtimeconfig.dev.json
 C:\Users\Ana Maria Romero\source\repos\Cruzero\HardcoreCruise\bin\Debug\netcoreapp3.1\Cruzero.exe
 C:\Users\Ana Maria Romero\source\repos\Cruzero\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.FrmVentadepasajes.resources
+C:\Users\Ana Maria Romero\source\repos\Cruzero\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.Properties.Resources.resources
