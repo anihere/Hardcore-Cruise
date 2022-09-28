@@ -11,7 +11,7 @@ Hardocore cuenta con 7 navios con los cuales podra visitar distintos destinos
 
 ## Sponsors
 
-Harcore.sln es un proyecto de código abierto cuyo desarrollo continuo es posible en su totalidad gracias al apoyo de estos increíbles patrocinadores. Si desea unirse a ellos, considere patrocinar el desarrollo de UTN.
+Cruzero.sln es un proyecto de código abierto cuyo desarrollo continuo es posible en su totalidad gracias al apoyo de estos increíbles patrocinadores. Si desea unirse a ellos, considere patrocinar el desarrollo de UTN.
 
 ## Tabla de contenido
 1. [Informacion General](#Info-general)
