@@ -1,0 +1,51 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HardcoreCruise/1.0.0": {
+        "dependencies": {
+          "Cruzero": "1.0.0",
+          "Entidades": "1.0.0",
+          "Cruzero.Reference": "1.0.0.0"
+        },
+        "runtime": {
+          "HardcoreCruise.dll": {}
+        }
+      },
+      "Entidades/1.0.0": {
+        "runtime": {
+          "Entidades.dll": {}
+        }
+      },
+      "Cruzero.Reference/1.0.0.0": {
+        "runtime": {
+          "Cruzero.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HardcoreCruise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cruzero.Reference/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
