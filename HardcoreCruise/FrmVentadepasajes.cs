@@ -39,7 +39,7 @@ namespace HardcoreCruise
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            
             //pasajeroDelForm = new Pasajero(txtnombre.Text, txtapellido.Text, int.Parse(txtdni.Text), int.Parse(txt_Equipaje.Text));
 
             // EmpresaCruzero.ListaDePasajeros.Add(pasajeroDelForm);
@@ -54,9 +54,9 @@ namespace HardcoreCruise
 
         private void btn_agregar_Click(object sender, EventArgs e)
         {
-            //Adiciono renglon
+          //Adiciono renglon
             n = dtgvPasajeros.Rows.Add();
-            //colocamos la informacion
+          //colocamos la informacion
             dtgvPasajeros.Rows[n].Cells[0].Value = txtnombre.Text;
             dtgvPasajeros.Rows[n].Cells[1].Value = txtapellido.Text;
             dtgvPasajeros.Rows[n].Cells[2].Value = txtdni.Text;
@@ -88,8 +88,6 @@ namespace HardcoreCruise
         /// ///////////////////////////////////////////////////////////////////////////TEXTBOX////////////////////////////////////////////////////////////////////////////////////
         /// </summary>
 
-
-
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
             string ciudadedest = textBox2.Text;
@@ -105,14 +103,30 @@ namespace HardcoreCruise
             }
         }
 
-        private void FrmVentadepasajes_Load(object sender, EventArgs e)
+        private void button3_Click(object sender, EventArgs e)
         {
-            string aux = comboBox1.ToString();
-            if (aux == " TURISTA")
-             textBox7.Text = "3000";
-             if (aux == "PREMIUM")
-             textBox7.Text = "2000";
-            
+            if (comboBox1.SelectedItem.ToString() == "Turista")
+                textBox7.Text = "2000";
+            else
+                textBox7.Text = "5000";
+
+            Random Rnd = new Random();
+
+            if (textBox2.Text == "La Habana" | textBox2.Text == "Venecia" | textBox2.Text == "Acapulco" | textBox2.Text == "Miami" | textBox2.Text == "Nueva York" | textBox2.Text == "Bangkok" | textBox2.Text == "Taipei" | textBox2.Text == "Atenas")
+            {
+                int numero = Rnd.Next(480, 720);
+                textBox10.Text = numero.ToString();
+            }
+            if (textBox2.Text == "Montevideo" | textBox2.Text == "Ushuaia" | textBox2.Text == "Recife" | textBox2.Text == "Santiago" | textBox2.Text == "Lima" | textBox2.Text == "Isla de Pascua" | textBox2.Text == "Isla Galapagos" | textBox2.Text == "Puerto Madryn"| textBox2.Text=="Rio de Janeiro"| textBox2.Text=="Cartagena")
+            {
+                int numero = Rnd.Next(72, 380);
+                textBox10.Text = numero.ToString();
+            }
+        }
+
+        private void textBox10_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

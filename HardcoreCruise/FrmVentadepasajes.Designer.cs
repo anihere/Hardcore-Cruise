@@ -65,6 +65,7 @@ namespace HardcoreCruise
             this.Equipaje = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.listBox1 = new System.Windows.Forms.ListBox();
+            this.button3 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dtgvPasajeros)).BeginInit();
             this.groupBox2.SuspendLayout();
@@ -158,6 +159,7 @@ namespace HardcoreCruise
             this.textBox10.Name = "textBox10";
             this.textBox10.Size = new System.Drawing.Size(100, 23);
             this.textBox10.TabIndex = 20;
+            this.textBox10.TextChanged += new System.EventHandler(this.textBox10_TextChanged);
             // 
             // groupBox1
             // 
@@ -382,12 +384,23 @@ namespace HardcoreCruise
             this.listBox1.Size = new System.Drawing.Size(292, 154);
             this.listBox1.TabIndex = 0;
             // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(198, 310);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(95, 23);
+            this.button3.TabIndex = 30;
+            this.button3.Text = "calcularprecio";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
             // FrmVentadepasajes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(978, 450);
+            this.Controls.Add(this.button3);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.dtgvPasajeros);
             this.Controls.Add(this.label5);
@@ -410,7 +423,6 @@ namespace HardcoreCruise
             this.Controls.Add(this.label1);
             this.Name = "FrmVentadepasajes";
             this.Text = "Ventadepasajes";
-            this.Load += new System.EventHandler(this.FrmVentadepasajes_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dtgvPasajeros)).EndInit();
@@ -457,5 +469,6 @@ namespace HardcoreCruise
         private System.Windows.Forms.TextBox txt_Equipaje;
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.Button button3;
     }
 }
