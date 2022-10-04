@@ -6,6 +6,7 @@ namespace Entidades
 {
     public class Validador
     {
+
         public static bool ValidarTexto(string dato)
         {
             return !string.IsNullOrEmpty(dato);

@@ -1,4 +1,5 @@
 ﻿using System;
+using Entidades;
 
 namespace Cruzero
 {
@@ -6,7 +7,7 @@ namespace Cruzero
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("HardCore fighting");
         }
     }
 }

@@ -6,28 +6,32 @@ namespace Entidades
 {
     public class Vendedores
     {
+        #region Atributos
         private string usuario;
         private string pass;
         static List<Vendedores> empleados;
 
-
+        #endregion
+        #region Construcores
         //constructor
         public Vendedores(string pass, string usuario)
         {
             this.usuario = usuario;
             this.pass = pass;
         }
-        //geterr
+        #endregion
+        #region Propiedades
         public string Usuario
         {
             get { return usuario; }
         }
+        #endregion
+        #region Metodos
 
         public bool CheckearPassword(string pass)
         {
             return pass == this.pass;
         }
-
         static Vendedores()
         {
             empleados = new List<Vendedores>();
@@ -55,6 +59,10 @@ namespace Entidades
             }
             return resultado;
         }
+
+        #endregion
+        
+        
 
 
     }

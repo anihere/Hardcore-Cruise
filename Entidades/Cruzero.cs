@@ -6,6 +6,8 @@ namespace Entidades
 {
     public class Cruzero
     {
+        
+        #region Atributos
         //Atributos de las embarcaciones
         private string matricula;
         private string nombre;
@@ -13,7 +15,8 @@ namespace Entidades
         private int salones;
         private int casino;
         private float bodega;
-
+        #endregion
+        #region Constructores
         //Constructor
         public Cruzero(string matricula, string nombre, int camarote4p, int salones, int casino, float bodega)
         {
@@ -24,7 +27,9 @@ namespace Entidades
             this.casino = casino;
             this.bodega = bodega;
         }
-
+        #endregion
+        #region Propiedades
+        //PROPIEDADES
         public Cruzero()
         {
         }
@@ -45,8 +50,9 @@ namespace Entidades
             get;
             set;
         }
-       
 
+        #endregion
+        #region Metodos
         //Metodo de instancia
         private string Mostrar()
         {
@@ -60,30 +66,17 @@ namespace Entidades
             return Cruzero.ToString();
         }
         //Metodo de clase
-        public static string Mostrar(Cruzero nacional)
-        {
-            return nacional.Mostrar();
-        }
-        //Sobrecarga operadores
-        public static bool operator ==(Cruzero nacional1, Cruzero nacional2)
-        {
-            bool confirmacion = false;
-            if (nacional1 is null)
-            {
-                return nacional2 is null;
-            }
-            if (nacional2 is null)
-            {
-                return confirmacion;
-            }
-            return nacional1.matricula == nacional2.matricula;
-
-        }
-        public static bool operator !=(Cruzero nacional1, Cruzero nacional2)
-        {
-            return !(nacional1 == nacional2);
-        }
        
-        
+        #endregion
+        #region Sobrecarga Operadores
+        //Sobrecarga operadores
+       
+
+        public override string ToString()
+        {
+          //  return this.Mostrar();
+            return this.nombre;
+        }
+        #endregion
     }
 }

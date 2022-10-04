@@ -8,9 +8,8 @@
     ".NETCoreApp,Version=v3.1": {
       "HardcoreCruise/1.0.0": {
         "dependencies": {
-          "Cruzero": "1.0.0",
           "Entidades": "1.0.0",
-          "Cruzero.Reference": "1.0.0.0"
+          "Cruzero": "1.0.0.0"
         },
         "runtime": {
           "HardcoreCruise.dll": {}
@@ -21,7 +20,7 @@
           "Entidades.dll": {}
         }
       },
-      "Cruzero.Reference/1.0.0.0": {
+      "Cruzero/1.0.0.0": {
         "runtime": {
           "Cruzero.dll": {
             "assemblyVersion": "1.0.0.0",
@@ -42,7 +41,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Cruzero.Reference/1.0.0.0": {
+    "Cruzero/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

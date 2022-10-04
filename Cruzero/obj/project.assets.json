@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Entidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entidades.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Entidades/1.0.0": {
+      "type": "project",
+      "path": "../Entidades/Entidades.csproj",
+      "msbuildProject": "../Entidades/Entidades.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Entidades >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Ana Maria Romero\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ana Maria Romero\\source\\repos\\Cruzero\\Cruzero\\Cruzero.csproj",
+      "projectUniqueName": "D:\\Documentos Ana\\Escritorio\\Hardcore-Cruise-main\\Cruzero\\Cruzero.csproj",
       "projectName": "Cruzero",
-      "projectPath": "C:\\Users\\Ana Maria Romero\\source\\repos\\Cruzero\\Cruzero\\Cruzero.csproj",
+      "projectPath": "D:\\Documentos Ana\\Escritorio\\Hardcore-Cruise-main\\Cruzero\\Cruzero.csproj",
       "packagesPath": "C:\\Users\\Ana Maria Romero\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ana Maria Romero\\source\\repos\\Cruzero\\Cruzero\\obj\\",
+      "outputPath": "D:\\Documentos Ana\\Escritorio\\Hardcore-Cruise-main\\Cruzero\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ana Maria Romero\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Documentos Ana\\Escritorio\\Hardcore-Cruise-main\\Entidades\\Entidades.csproj": {
+              "projectPath": "D:\\Documentos Ana\\Escritorio\\Hardcore-Cruise-main\\Entidades\\Entidades.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
