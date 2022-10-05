@@ -137,7 +137,7 @@ namespace HardcoreCruise
             this.listBox4.ItemHeight = 15;
             this.listBox4.Location = new System.Drawing.Point(6, 21);
             this.listBox4.Name = "listBox4";
-            this.listBox4.Size = new System.Drawing.Size(447, 199);
+            this.listBox4.Size = new System.Drawing.Size(694, 199);
             this.listBox4.TabIndex = 5;
             // 
             // button3
@@ -156,11 +156,11 @@ namespace HardcoreCruise
             this.groupBox4.Controls.Add(this.listBox4);
             this.groupBox4.Controls.Add(this.groupBox1);
             this.groupBox4.Controls.Add(this.groupBox2);
-            this.groupBox4.Location = new System.Drawing.Point(24, 0);
+            this.groupBox4.Location = new System.Drawing.Point(12, 0);
             this.groupBox4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.groupBox4.Name = "groupBox4";
             this.groupBox4.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.groupBox4.Size = new System.Drawing.Size(459, 230);
+            this.groupBox4.Size = new System.Drawing.Size(706, 230);
             this.groupBox4.TabIndex = 7;
             this.groupBox4.TabStop = false;
             this.groupBox4.Text = "Viajes Disponibles";
@@ -200,7 +200,7 @@ namespace HardcoreCruise
             // 
             this.groupBox7.BackColor = System.Drawing.Color.Red;
             this.groupBox7.Controls.Add(this.listBox5);
-            this.groupBox7.Location = new System.Drawing.Point(508, 0);
+            this.groupBox7.Location = new System.Drawing.Point(752, 1);
             this.groupBox7.Name = "groupBox7";
             this.groupBox7.Size = new System.Drawing.Size(362, 229);
             this.groupBox7.TabIndex = 6;

@@ -93,9 +93,9 @@ namespace HardcoreCruise
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(138, 89);
+            this.textBox2.Location = new System.Drawing.Point(146, 86);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(129, 23);
+            this.textBox2.Size = new System.Drawing.Size(147, 23);
             this.textBox2.TabIndex = 3;
             // 
             // label3
