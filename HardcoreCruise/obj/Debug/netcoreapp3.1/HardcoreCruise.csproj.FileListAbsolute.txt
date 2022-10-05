@@ -26,3 +26,132 @@ C:\Users\Ana Maria Romero\source\repos\Cruzero\HardcoreCruise\bin\Debug\netcorea
 C:\Users\Ana Maria Romero\source\repos\Cruzero\HardcoreCruise\bin\Debug\netcoreapp3.1\Cruzero.exe
 C:\Users\Ana Maria Romero\source\repos\Cruzero\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.FrmVentadepasajes.resources
 C:\Users\Ana Maria Romero\source\repos\Cruzero\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.Properties.Resources.resources
+D:\Documentos Ana\Escritorio\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.csproj.AssemblyReference.cache
+D:\Documentos Ana\Escritorio\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.dll
+D:\Documentos Ana\Escritorio\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.pdb
+C:\Users\Mauro\Downloads\Hardcore-Cruise-main (2)\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.exe
+C:\Users\Mauro\Downloads\Hardcore-Cruise-main (2)\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.deps.json
+C:\Users\Mauro\Downloads\Hardcore-Cruise-main (2)\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.runtimeconfig.json
+C:\Users\Mauro\Downloads\Hardcore-Cruise-main (2)\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.runtimeconfig.dev.json
+C:\Users\Mauro\Downloads\Hardcore-Cruise-main (2)\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.dll
+C:\Users\Mauro\Downloads\Hardcore-Cruise-main (2)\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.pdb
+C:\Users\Mauro\Downloads\Hardcore-Cruise-main (2)\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\Cruzero.dll
+C:\Users\Mauro\Downloads\Hardcore-Cruise-main (2)\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\Mauro\Downloads\Hardcore-Cruise-main (2)\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\Mauro\Downloads\Hardcore-Cruise-main (2)\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\Cruzero.pdb
+C:\Users\Mauro\Downloads\Hardcore-Cruise-main (2)\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.csproj.AssemblyReference.cache
+C:\Users\Mauro\Downloads\Hardcore-Cruise-main (2)\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.Central.resources
+C:\Users\Mauro\Downloads\Hardcore-Cruise-main (2)\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.FrmLogin.resources
+C:\Users\Mauro\Downloads\Hardcore-Cruise-main (2)\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.FrmVentadepasajes.resources
+C:\Users\Mauro\Downloads\Hardcore-Cruise-main (2)\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.Properties.Resources.resources
+C:\Users\Mauro\Downloads\Hardcore-Cruise-main (2)\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.csproj.GenerateResource.cache
+C:\Users\Mauro\Downloads\Hardcore-Cruise-main (2)\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro\Downloads\Hardcore-Cruise-main (2)\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.AssemblyInfoInputs.cache
+C:\Users\Mauro\Downloads\Hardcore-Cruise-main (2)\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.AssemblyInfo.cs
+C:\Users\Mauro\Downloads\Hardcore-Cruise-main (2)\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Downloads\Hardcore-Cruise-main (2)\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.csproj.CopyComplete
+C:\Users\Mauro\Downloads\Hardcore-Cruise-main (2)\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.dll
+C:\Users\Mauro\Downloads\Hardcore-Cruise-main (2)\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.pdb
+C:\Users\Mauro\Downloads\Hardcore-Cruise-main (2)\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.genruntimeconfig.cache
+C:\Users\Mauro\Downloads\Hardcore-Cruise-main (2)\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.FrmAltadeviaje.resources
+D:\Documentos Ana\Escritorio\esteanda\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.exe
+D:\Documentos Ana\Escritorio\esteanda\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.deps.json
+D:\Documentos Ana\Escritorio\esteanda\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.runtimeconfig.json
+D:\Documentos Ana\Escritorio\esteanda\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.runtimeconfig.dev.json
+D:\Documentos Ana\Escritorio\esteanda\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.dll
+D:\Documentos Ana\Escritorio\esteanda\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.pdb
+D:\Documentos Ana\Escritorio\esteanda\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\Cruzero.dll
+D:\Documentos Ana\Escritorio\esteanda\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\Entidades.dll
+D:\Documentos Ana\Escritorio\esteanda\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\Entidades.pdb
+D:\Documentos Ana\Escritorio\esteanda\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\Cruzero.pdb
+D:\Documentos Ana\Escritorio\esteanda\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.csproj.AssemblyReference.cache
+D:\Documentos Ana\Escritorio\esteanda\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.FrmAltadeviaje.resources
+D:\Documentos Ana\Escritorio\esteanda\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.Central.resources
+D:\Documentos Ana\Escritorio\esteanda\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.FrmLogin.resources
+D:\Documentos Ana\Escritorio\esteanda\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.FrmVentadepasajes.resources
+D:\Documentos Ana\Escritorio\esteanda\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.Properties.Resources.resources
+D:\Documentos Ana\Escritorio\esteanda\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.csproj.GenerateResource.cache
+D:\Documentos Ana\Escritorio\esteanda\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos Ana\Escritorio\esteanda\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.AssemblyInfoInputs.cache
+D:\Documentos Ana\Escritorio\esteanda\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.AssemblyInfo.cs
+D:\Documentos Ana\Escritorio\esteanda\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.csproj.CoreCompileInputs.cache
+D:\Documentos Ana\Escritorio\esteanda\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.csproj.CopyComplete
+D:\Documentos Ana\Escritorio\esteanda\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.dll
+D:\Documentos Ana\Escritorio\esteanda\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.pdb
+D:\Documentos Ana\Escritorio\esteanda\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.genruntimeconfig.cache
+E:\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.exe
+E:\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.deps.json
+E:\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.runtimeconfig.json
+E:\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.runtimeconfig.dev.json
+E:\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.dll
+E:\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.pdb
+E:\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\Entidades.dll
+E:\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\Entidades.pdb
+E:\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.csproj.AssemblyReference.cache
+E:\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.FrmAltadeviaje.resources
+E:\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.Central.resources
+E:\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.FrmLogin.resources
+E:\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.FrmVentadepasajes.resources
+E:\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.Properties.Resources.resources
+E:\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.csproj.GenerateResource.cache
+E:\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.AssemblyInfoInputs.cache
+E:\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.AssemblyInfo.cs
+E:\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.csproj.CoreCompileInputs.cache
+E:\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.csproj.CopyComplete
+E:\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.dll
+E:\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.pdb
+E:\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.genruntimeconfig.cache
+E:\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\Cruzero.dll
+E:\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\Cruzero.pdb
+C:\Users\romer\source\repos\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.exe
+C:\Users\romer\source\repos\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.deps.json
+C:\Users\romer\source\repos\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.runtimeconfig.json
+C:\Users\romer\source\repos\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.runtimeconfig.dev.json
+C:\Users\romer\source\repos\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.dll
+C:\Users\romer\source\repos\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.pdb
+C:\Users\romer\source\repos\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\Cruzero.dll
+C:\Users\romer\source\repos\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\romer\source\repos\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\romer\source\repos\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\Cruzero.pdb
+C:\Users\romer\source\repos\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.csproj.AssemblyReference.cache
+C:\Users\romer\source\repos\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.FrmAltadeviaje.resources
+C:\Users\romer\source\repos\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.Central.resources
+C:\Users\romer\source\repos\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.FrmLogin.resources
+C:\Users\romer\source\repos\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.FrmVentadepasajes.resources
+C:\Users\romer\source\repos\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.Properties.Resources.resources
+C:\Users\romer\source\repos\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.csproj.GenerateResource.cache
+C:\Users\romer\source\repos\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romer\source\repos\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.AssemblyInfoInputs.cache
+C:\Users\romer\source\repos\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.AssemblyInfo.cs
+C:\Users\romer\source\repos\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.csproj.CoreCompileInputs.cache
+C:\Users\romer\source\repos\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.csproj.CopyComplete
+C:\Users\romer\source\repos\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.dll
+C:\Users\romer\source\repos\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.pdb
+C:\Users\romer\source\repos\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.genruntimeconfig.cache
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.exe
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.deps.json
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.runtimeconfig.json
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.runtimeconfig.dev.json
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.dll
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\HardcoreCruise.pdb
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\Cruzero.dll
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\Entidades.dll
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\Entidades.pdb
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\HardcoreCruise\bin\Debug\netcoreapp3.1\Cruzero.pdb
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.csproj.AssemblyReference.cache
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.FrmAltadeviaje.resources
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.Central.resources
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.FrmLogin.resources
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.FrmVentadepasajes.resources
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.Properties.Resources.resources
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.csproj.GenerateResource.cache
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.AssemblyInfoInputs.cache
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.AssemblyInfo.cs
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.csproj.CoreCompileInputs.cache
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.csproj.CopyComplete
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.dll
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.pdb
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.genruntimeconfig.cache
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\HardcoreCruise\obj\Debug\netcoreapp3.1\HardcoreCruise.Lista_pasajeros.resources

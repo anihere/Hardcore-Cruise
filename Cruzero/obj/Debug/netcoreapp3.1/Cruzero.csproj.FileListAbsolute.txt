@@ -63,3 +63,20 @@ C:\Users\romer\source\repos\Hardcore-Cruise-main\Cruzero\obj\Debug\netcoreapp3.1
 C:\Users\romer\source\repos\Hardcore-Cruise-main\Cruzero\obj\Debug\netcoreapp3.1\Cruzero.dll
 C:\Users\romer\source\repos\Hardcore-Cruise-main\Cruzero\obj\Debug\netcoreapp3.1\Cruzero.pdb
 C:\Users\romer\source\repos\Hardcore-Cruise-main\Cruzero\obj\Debug\netcoreapp3.1\Cruzero.genruntimeconfig.cache
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\Cruzero\bin\Debug\netcoreapp3.1\Cruzero.exe
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\Cruzero\bin\Debug\netcoreapp3.1\Cruzero.deps.json
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\Cruzero\bin\Debug\netcoreapp3.1\Cruzero.runtimeconfig.json
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\Cruzero\bin\Debug\netcoreapp3.1\Cruzero.runtimeconfig.dev.json
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\Cruzero\bin\Debug\netcoreapp3.1\Cruzero.dll
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\Cruzero\bin\Debug\netcoreapp3.1\Cruzero.pdb
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\Cruzero\bin\Debug\netcoreapp3.1\Entidades.dll
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\Cruzero\bin\Debug\netcoreapp3.1\Entidades.pdb
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\Cruzero\obj\Debug\netcoreapp3.1\Cruzero.csproj.AssemblyReference.cache
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\Cruzero\obj\Debug\netcoreapp3.1\Cruzero.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\Cruzero\obj\Debug\netcoreapp3.1\Cruzero.AssemblyInfoInputs.cache
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\Cruzero\obj\Debug\netcoreapp3.1\Cruzero.AssemblyInfo.cs
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\Cruzero\obj\Debug\netcoreapp3.1\Cruzero.csproj.CoreCompileInputs.cache
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\Cruzero\obj\Debug\netcoreapp3.1\Cruzero.csproj.CopyComplete
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\Cruzero\obj\Debug\netcoreapp3.1\Cruzero.dll
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\Cruzero\obj\Debug\netcoreapp3.1\Cruzero.pdb
+D:\Documentos Ana\Escritorio\hardfigting\Hardcore-Cruise-main\Cruzero\obj\Debug\netcoreapp3.1\Cruzero.genruntimeconfig.cache

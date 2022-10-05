@@ -14,21 +14,21 @@ using Entidades;
 
 namespace HardcoreCruise
 {
+    using Entidades;
     public partial class Central : Form
     {
         #region Atributos
-        //ATRIBUTOS 2 listas: Flota para acceder a la
-        Flota flota;
-        List<Viaje> viajes;
+        //ATRIBUTOS 2 listas
+        List <Viaje> viajes;
+        List <Cruzero> cruzero;
         #endregion
         #region Propiedades
         //PROPIEDADES
         public Central()
-
         {
             InitializeComponent();
-            this.flota = new Flota();
             this.viajes = new List<Viaje>();
+            this.cruzero = new List<Cruzero>();
         }
         #endregion
         #region metodos
@@ -46,22 +46,28 @@ namespace HardcoreCruise
 
         private void Central_Load(object sender, EventArgs e)
         {
+            //this.viajes.Add(new Viaje("Miami")); 
+            
+
+            //this.viajes.Add(new Viaje("Buenos Aires", "Miami", DateTime.Now, 4000, 123, flota.Listadecruzero[1]));
+
+
             //ListBox1 los utilizo para mostrar en el listbox 1 y 2 los destinos en este form FrmCentral
 
-            listBox1.DataSource = Enum.GetNames(typeof(ESudamericano));
+            listBox1.DataSource = Enum.GetNames(typeof(Sudamericano));
 
-            listBox2.DataSource = Enum.GetNames(typeof(EInternacionales));
+            listBox2.DataSource = Enum.GetNames(typeof(Internacionales));
 
-         //  listBox3.DataSource = Enum.GetNames(typeof(EListadecuzeros));
-         //   listBox3.Items.Add(EmpresaCruzero.ListaDeCruzeros.ToString());
-
-          //  listBox4.Items.Add(EmpresaCruzero.ListaDeViaje);
+            foreach (Cruzero item in EmpresaCruzero.ListaDeCruzeros)
+            {
+               listBox3.Items.Add(item.nombre);
+            }
+            //Con estos metodos 
 
             this.CargarViajes();
             this.CargarLista();
-           // EmpresaCruzero.
 
-
+            
         }
 
         /// <summary>
@@ -75,11 +81,6 @@ namespace HardcoreCruise
             Close();
         }
 
-        private void CargarLista()
-        {
-            listBox3.DataSource = null;
-            listBox3.DataSource = flota.Listadecruzero;
-        }
         //Boton para Vender un viaje
         private void btn_ventaviaje(object sender, EventArgs e)
         {
@@ -87,16 +88,16 @@ namespace HardcoreCruise
             if (ventana.ShowDialog() == DialogResult.OK)
             {
                 Pasajero pasajeronuevo = ventana.PasajeroDelForm;
-                viajes[0].Pasajeros.Add(pasajeronuevo);
+                //jhbviajes[0].Pasajeros.Add(pasajeronuevo);
                 MessageBox.Show("pasaje vendido");
             }
-           CargarViajes();
+            CargarViajes();
         }
 
         //Boton  para dar de alta un nuevo viaje
         private void btn_altaviaje(object sender, EventArgs e)
         {
-            FrmAltadeviaje ventana = new FrmAltadeviaje(flota);
+            FrmAltadeviaje ventana = new FrmAltadeviaje();
             if (ventana.ShowDialog() == DialogResult.OK)
             {
                 Viaje viajenuevo = ventana.ViajeDelForm;
@@ -105,7 +106,11 @@ namespace HardcoreCruise
             }
             CargarViajes();
         }
+        
 
+        //////////////////////////////////////////////////////////////////////////////////////METODOS//////////////////////////////////////////////////////////////////////////
+
+        //Con este Metodo agrego en el ListBox4 los nuevos viajes que cargamos en el frmAltadeviaje
         private void CargarViajes()
         {
             listBox4.Items.Clear();
@@ -114,13 +119,16 @@ namespace HardcoreCruise
                 listBox4.Items.Add(item);
             }
         }
-
-
-
+        //Con este Metodo muestro en el ListBox3 los nombres de los Cruzeros
+        private void CargarLista()
+        {
+            listBox3.DataSource = null;
+           // listBox3.DataSource = Listadecruzero;
+        }
 
         #endregion
 
-       
+     
     }
 }
             

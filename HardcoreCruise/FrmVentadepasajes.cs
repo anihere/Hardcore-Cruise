@@ -31,21 +31,15 @@ namespace HardcoreCruise
         {
             InitializeComponent();
         }
-
-
         /// <summary>
         /// ////////////////////////////////////////////////////////////////BOTONES///////////////////////////////////////////////////////////////////////////////////////////////
         /// </summary>
-
+    
         private void button2_Click(object sender, EventArgs e)
         {
-            
-            //pasajeroDelForm = new Pasajero(txtnombre.Text, txtapellido.Text, int.Parse(txtdni.Text), int.Parse(txt_Equipaje.Text));
-
-            // EmpresaCruzero.ListaDePasajeros.Add(pasajeroDelForm);
+           // pasajeroDelForm = new Pasajero(txtnombre.Text, txtapellido.Text, int.Parse(txtdni.Text));
 
             this.DialogResult = DialogResult.OK;
-
         }
         private void button1_Click(object sender, EventArgs e)
         {
@@ -54,9 +48,9 @@ namespace HardcoreCruise
 
         private void btn_agregar_Click(object sender, EventArgs e)
         {
-          //Adiciono renglon
-            n = dtgvPasajeros.Rows.Add();
-          //colocamos la informacion
+             //ADiciono renglon
+            int n = dtgvPasajeros.Rows.Add();
+            //colocamos la informacion
             dtgvPasajeros.Rows[n].Cells[0].Value = txtnombre.Text;
             dtgvPasajeros.Rows[n].Cells[1].Value = txtapellido.Text;
             dtgvPasajeros.Rows[n].Cells[2].Value = txtdni.Text;
@@ -66,8 +60,8 @@ namespace HardcoreCruise
             String aux2 = txtapellido.Text;
             int aux3 = int.Parse(txtdni.Text);
             int aux4 = int.Parse(txt_Equipaje.Text);
-
             //LLenamos la lista
+            
             pasajeroDelForm = new Pasajero(aux1, aux2, aux3, aux4);
 
             EmpresaCruzero.ListaDePasajeros.Add(pasajeroDelForm);
@@ -76,14 +70,30 @@ namespace HardcoreCruise
             {
                 listBox1.Items.Add(item.ToString());
             }
-            //Limpiamos los textbox
+            //Limpiamos los tectbox
+
             txtnombre.Text = "";
             txtapellido.Text = "";
             txtdni.Text = "";
             txt_Equipaje.Text = "";
         }
-        
-        
+        private void dtgvPasajeros_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            n = e.RowIndex;
+
+            if (n != -1)
+            {
+                lblInformacion.Text =(string) dtgvPasajeros.Rows[n].Cells[1].Value;       
+            }
+        }
+
+        private void btn_borrar_Click(object sender, EventArgs e)
+        {
+            if (n != -1)
+            {
+                dtgvPasajeros.Rows.RemoveAt(n);
+            }
+        }
         /// <summary>
         /// ///////////////////////////////////////////////////////////////////////////TEXTBOX////////////////////////////////////////////////////////////////////////////////////
         /// </summary>
@@ -93,17 +103,8 @@ namespace HardcoreCruise
             string ciudadedest = textBox2.Text;
         }
 
-        #endregion
-
-        private void btn_borrar_Click(object sender, EventArgs e)
-        {
-            if (n!=-1)
-            {
-                dtgvPasajeros.Rows.RemoveAt(n);
-            }
-        }
-
-        private void button3_Click(object sender, EventArgs e)
+        
+        private void button3_Click_1(object sender, EventArgs e)
         {
             if (comboBox1.SelectedItem.ToString() == "Turista")
                 textBox7.Text = "2000";
@@ -117,16 +118,15 @@ namespace HardcoreCruise
                 int numero = Rnd.Next(480, 720);
                 textBox10.Text = numero.ToString();
             }
-            if (textBox2.Text == "Montevideo" | textBox2.Text == "Ushuaia" | textBox2.Text == "Recife" | textBox2.Text == "Santiago" | textBox2.Text == "Lima" | textBox2.Text == "Isla de Pascua" | textBox2.Text == "Isla Galapagos" | textBox2.Text == "Puerto Madryn"| textBox2.Text=="Rio de Janeiro"| textBox2.Text=="Cartagena")
+            if (textBox2.Text == "Montevideo" | textBox2.Text == "Ushuaia" | textBox2.Text == "Recife" | textBox2.Text == "Santiago" | textBox2.Text == "Lima" | textBox2.Text == "Isla de Pascua" | textBox2.Text == "Isla Galapagos" | textBox2.Text == "Puerto Madryn" | textBox2.Text == "Rio de Janeiro" | textBox2.Text == "Cartagena")
             {
                 int numero = Rnd.Next(72, 380);
                 textBox10.Text = numero.ToString();
             }
         }
-
-        private void textBox10_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
+    #endregion
+
+
 }
+

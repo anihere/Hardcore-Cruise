@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos Ana\\Escritorio\\Hardcore-Cruise-main\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "D:\\Documentos Ana\\Escritorio\\hardfigting\\Hardcore-Cruise-main\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "D:\\Documentos Ana\\Escritorio\\Hardcore-Cruise-main\\Entidades\\Entidades.csproj",
+      "projectPath": "D:\\Documentos Ana\\Escritorio\\hardfigting\\Hardcore-Cruise-main\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\Ana Maria Romero\\.nuget\\packages\\",
-      "outputPath": "D:\\Documentos Ana\\Escritorio\\Hardcore-Cruise-main\\Entidades\\obj\\",
+      "outputPath": "D:\\Documentos Ana\\Escritorio\\hardfigting\\Hardcore-Cruise-main\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ana Maria Romero\\AppData\\Roaming\\NuGet\\NuGet.Config",

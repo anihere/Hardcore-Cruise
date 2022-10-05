@@ -13,8 +13,7 @@ namespace HardcoreCruise
     {
         #region Atributos
         Viaje viajeDelForm;
-        Flota flota;
-        #endregion
+         #endregion
         #region Propiedades
         public Viaje ViajeDelForm
         {
@@ -25,11 +24,9 @@ namespace HardcoreCruise
         }
         #endregion
         #region Metodos
-        public FrmAltadeviaje(Flota flota)
+        public FrmAltadeviaje()
         {
             InitializeComponent();
-            this.flota = flota;
-           // combobox.DataSource = flota.Listadecruzero;
 
         }
         /// <summary>
@@ -38,8 +35,8 @@ namespace HardcoreCruise
        
         private void button1_Click(object sender, EventArgs e)
         {
-            viajeDelForm = new Viaje(textBox2.Text, textBox2.Text, dateTimePicker1.Value, int.Parse(textBox4.Text), int.Parse(textBox5.Text), flota.Listadecruzero[0], int.Parse(textBox8.Text));
-            EmpresaCruzero.ListaDeViaje.Add(viajeDelForm);
+            viajeDelForm = new Viaje(textBox2.Text, textBox2.Text, dateTimePicker1.Value, int.Parse(textBox4.Text), int.Parse(textBox7.Text), int.Parse(textBox8.Text));
+
             this.DialogResult = DialogResult.OK;
         }
 

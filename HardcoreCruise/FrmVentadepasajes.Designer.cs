@@ -41,6 +41,7 @@ namespace HardcoreCruise
             this.label11 = new System.Windows.Forms.Label();
             this.textBox10 = new System.Windows.Forms.TextBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.lblInformacion = new System.Windows.Forms.Label();
             this.txt_Equipaje = new System.Windows.Forms.TextBox();
             this.btn_borrar = new System.Windows.Forms.Button();
             this.btn_agregar = new System.Windows.Forms.Button();
@@ -63,9 +64,9 @@ namespace HardcoreCruise
             this.Apellido = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.PAsaporte = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Equipaje = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.listBox1 = new System.Windows.Forms.ListBox();
             this.button3 = new System.Windows.Forms.Button();
+            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dtgvPasajeros)).BeginInit();
             this.groupBox2.SuspendLayout();
@@ -93,10 +94,11 @@ namespace HardcoreCruise
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(146, 86);
+            this.textBox2.Location = new System.Drawing.Point(150, 89);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(147, 23);
             this.textBox2.TabIndex = 3;
+            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // label3
             // 
@@ -138,9 +140,9 @@ namespace HardcoreCruise
             // 
             // textBox7
             // 
-            this.textBox7.Location = new System.Drawing.Point(146, 278);
+            this.textBox7.Location = new System.Drawing.Point(146, 287);
             this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(100, 23);
+            this.textBox7.Size = new System.Drawing.Size(152, 23);
             this.textBox7.TabIndex = 16;
             // 
             // label11
@@ -157,13 +159,13 @@ namespace HardcoreCruise
             // 
             this.textBox10.Location = new System.Drawing.Point(146, 339);
             this.textBox10.Name = "textBox10";
-            this.textBox10.Size = new System.Drawing.Size(100, 23);
+            this.textBox10.Size = new System.Drawing.Size(151, 23);
             this.textBox10.TabIndex = 20;
-            this.textBox10.TextChanged += new System.EventHandler(this.textBox10_TextChanged);
             // 
             // groupBox1
             // 
             this.groupBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.groupBox1.Controls.Add(this.lblInformacion);
             this.groupBox1.Controls.Add(this.txt_Equipaje);
             this.groupBox1.Controls.Add(this.btn_borrar);
             this.groupBox1.Controls.Add(this.btn_agregar);
@@ -174,16 +176,25 @@ namespace HardcoreCruise
             this.groupBox1.Controls.Add(this.txtnombre);
             this.groupBox1.Controls.Add(this.label13);
             this.groupBox1.Controls.Add(this.label12);
-            this.groupBox1.Location = new System.Drawing.Point(304, 31);
+            this.groupBox1.Location = new System.Drawing.Point(317, 12);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(424, 167);
             this.groupBox1.TabIndex = 21;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Informacion Pasajero";
             // 
+            // lblInformacion
+            // 
+            this.lblInformacion.AutoSize = true;
+            this.lblInformacion.Location = new System.Drawing.Point(270, 96);
+            this.lblInformacion.Name = "lblInformacion";
+            this.lblInformacion.Size = new System.Drawing.Size(72, 15);
+            this.lblInformacion.TabIndex = 32;
+            this.lblInformacion.Text = "Informacion";
+            // 
             // txt_Equipaje
             // 
-            this.txt_Equipaje.Location = new System.Drawing.Point(233, 81);
+            this.txt_Equipaje.Location = new System.Drawing.Point(233, 58);
             this.txt_Equipaje.Name = "txt_Equipaje";
             this.txt_Equipaje.Size = new System.Drawing.Size(100, 23);
             this.txt_Equipaje.TabIndex = 31;
@@ -211,7 +222,7 @@ namespace HardcoreCruise
             // label15
             // 
             this.label15.AutoSize = true;
-            this.label15.Location = new System.Drawing.Point(233, 58);
+            this.label15.Location = new System.Drawing.Point(223, 30);
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(146, 15);
             this.label15.TabIndex = 6;
@@ -303,7 +314,7 @@ namespace HardcoreCruise
             "Turista"});
             this.comboBox1.Location = new System.Drawing.Point(146, 228);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(121, 23);
+            this.comboBox1.Size = new System.Drawing.Size(152, 23);
             this.comboBox1.TabIndex = 25;
             // 
             // dateTimePicker1
@@ -325,7 +336,7 @@ namespace HardcoreCruise
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(146, 39);
+            this.label5.Location = new System.Drawing.Point(150, 39);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(147, 15);
             this.label5.TabIndex = 27;
@@ -339,11 +350,12 @@ namespace HardcoreCruise
             this.Apellido,
             this.PAsaporte,
             this.Equipaje});
-            this.dtgvPasajeros.Location = new System.Drawing.Point(734, 31);
+            this.dtgvPasajeros.Location = new System.Drawing.Point(747, 12);
             this.dtgvPasajeros.Name = "dtgvPasajeros";
             this.dtgvPasajeros.RowTemplate.Height = 25;
-            this.dtgvPasajeros.Size = new System.Drawing.Size(353, 191);
+            this.dtgvPasajeros.Size = new System.Drawing.Size(317, 167);
             this.dtgvPasajeros.TabIndex = 28;
+            this.dtgvPasajeros.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgvPasajeros_CellClick);
             // 
             // Nombre
             // 
@@ -365,43 +377,43 @@ namespace HardcoreCruise
             this.Equipaje.HeaderText = "Equipaje";
             this.Equipaje.Name = "Equipaje";
             // 
-            // groupBox2
+            // button3
             // 
-            this.groupBox2.Controls.Add(this.listBox1);
-            this.groupBox2.Location = new System.Drawing.Point(304, 237);
-            this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(308, 195);
-            this.groupBox2.TabIndex = 29;
-            this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Lista de Pasajeros";
+            this.button3.Location = new System.Drawing.Point(181, 257);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(85, 24);
+            this.button3.TabIndex = 29;
+            this.button3.Text = "calcularprecio";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click_1);
             // 
             // listBox1
             // 
             this.listBox1.FormattingEnabled = true;
             this.listBox1.ItemHeight = 15;
-            this.listBox1.Location = new System.Drawing.Point(6, 22);
+            this.listBox1.Location = new System.Drawing.Point(15, 22);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(292, 154);
-            this.listBox1.TabIndex = 0;
+            this.listBox1.Size = new System.Drawing.Size(596, 154);
+            this.listBox1.TabIndex = 30;
             // 
-            // button3
+            // groupBox2
             // 
-            this.button3.Location = new System.Drawing.Point(198, 310);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(95, 23);
-            this.button3.TabIndex = 30;
-            this.button3.Text = "calcularprecio";
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
+            this.groupBox2.Controls.Add(this.listBox1);
+            this.groupBox2.Location = new System.Drawing.Point(317, 201);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(633, 188);
+            this.groupBox2.TabIndex = 31;
+            this.groupBox2.TabStop = false;
+            this.groupBox2.Text = "Lista de pasajeros";
             // 
             // FrmVentadepasajes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(978, 450);
-            this.Controls.Add(this.button3);
+            this.ClientSize = new System.Drawing.Size(1064, 450);
             this.Controls.Add(this.groupBox2);
+            this.Controls.Add(this.button3);
             this.Controls.Add(this.dtgvPasajeros);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.dateTimePicker2);
@@ -467,8 +479,9 @@ namespace HardcoreCruise
         private System.Windows.Forms.DataGridViewTextBoxColumn PAsaporte;
         private System.Windows.Forms.DataGridViewTextBoxColumn Equipaje;
         private System.Windows.Forms.TextBox txt_Equipaje;
-        private System.Windows.Forms.GroupBox groupBox2;
-        private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.Label lblInformacion;
         private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.GroupBox groupBox2;
     }
 }

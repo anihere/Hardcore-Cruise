@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos Ana\\Escritorio\\Hardcore-Cruise-main\\Cruzero\\Cruzero.csproj": {}
+    "D:\\Documentos Ana\\Escritorio\\hardfigting\\Hardcore-Cruise-main\\Cruzero\\Cruzero.csproj": {}
   },
   "projects": {
-    "D:\\Documentos Ana\\Escritorio\\Hardcore-Cruise-main\\Cruzero\\Cruzero.csproj": {
+    "D:\\Documentos Ana\\Escritorio\\hardfigting\\Hardcore-Cruise-main\\Cruzero\\Cruzero.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos Ana\\Escritorio\\Hardcore-Cruise-main\\Cruzero\\Cruzero.csproj",
+        "projectUniqueName": "D:\\Documentos Ana\\Escritorio\\hardfigting\\Hardcore-Cruise-main\\Cruzero\\Cruzero.csproj",
         "projectName": "Cruzero",
-        "projectPath": "D:\\Documentos Ana\\Escritorio\\Hardcore-Cruise-main\\Cruzero\\Cruzero.csproj",
+        "projectPath": "D:\\Documentos Ana\\Escritorio\\hardfigting\\Hardcore-Cruise-main\\Cruzero\\Cruzero.csproj",
         "packagesPath": "C:\\Users\\Ana Maria Romero\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos Ana\\Escritorio\\Hardcore-Cruise-main\\Cruzero\\obj\\",
+        "outputPath": "D:\\Documentos Ana\\Escritorio\\hardfigting\\Hardcore-Cruise-main\\Cruzero\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ana Maria Romero\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Documentos Ana\\Escritorio\\Hardcore-Cruise-main\\Entidades\\Entidades.csproj": {
-                "projectPath": "D:\\Documentos Ana\\Escritorio\\Hardcore-Cruise-main\\Entidades\\Entidades.csproj"
+              "D:\\Documentos Ana\\Escritorio\\hardfigting\\Hardcore-Cruise-main\\Entidades\\Entidades.csproj": {
+                "projectPath": "D:\\Documentos Ana\\Escritorio\\hardfigting\\Hardcore-Cruise-main\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "D:\\Documentos Ana\\Escritorio\\Hardcore-Cruise-main\\Entidades\\Entidades.csproj": {
+    "D:\\Documentos Ana\\Escritorio\\hardfigting\\Hardcore-Cruise-main\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos Ana\\Escritorio\\Hardcore-Cruise-main\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "D:\\Documentos Ana\\Escritorio\\hardfigting\\Hardcore-Cruise-main\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "D:\\Documentos Ana\\Escritorio\\Hardcore-Cruise-main\\Entidades\\Entidades.csproj",
+        "projectPath": "D:\\Documentos Ana\\Escritorio\\hardfigting\\Hardcore-Cruise-main\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\Ana Maria Romero\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos Ana\\Escritorio\\Hardcore-Cruise-main\\Entidades\\obj\\",
+        "outputPath": "D:\\Documentos Ana\\Escritorio\\hardfigting\\Hardcore-Cruise-main\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ana Maria Romero\\AppData\\Roaming\\NuGet\\NuGet.Config",
