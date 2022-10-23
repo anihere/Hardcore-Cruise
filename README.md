@@ -9,14 +9,14 @@
 
 Hardocore cuenta con 7 navios con los cuales podra visitar distintos destinos
 
-## Sponsors
+## Desarrollador
 
-Cruzero.sln es un proyecto de código abierto cuyo desarrollo continuo es posible en su totalidad gracias al apoyo de estos increíbles patrocinadores. Si desea unirse a ellos, considere patrocinar el desarrollo de UTN.
+Cruzero.sln es un proyecto desarrollado por Anibal Heredia Estudiante de la UTN Regional Avellaneda en la carrera terciaria de Tecnico Superior en Programacion.
 
 ## Tabla de contenido
 1. [Informacion General](#Info-general)
 2. [Tecnologias](#tecnologia)
-3. [Instalacion](#instalacion)
+3. [Diagrama de Clases](#Diagrama De Clases)
 4. [Colaboracion](#colaboracion)
 5. [FAQs](#faqs)
 ### Info General
@@ -31,9 +31,13 @@ Hardcore.sln es una aplicacion para venta de pasajes en cruzeros. En la cual pod
 * [Windows 10]((https://www.microsoft.com/es-es/windows?r=1)): Version 10
 * [Library Entidades]((https://github.com/anihere/Hardcore-Cruise/)): Version 1 
 
-## Instalacion
+## Diagrama De Clases
 ***
-Debera descargar el archivo del repositorio. Teniendo instalado Visual Studio. Podra acceder a traves del archivo Cruzero.sln el cual iniciara Visual studio y desde alli podra iniciar la aplicacion.
+
+
+
+
+
 ```
 Información adicional: para usar la aplicación es recomendable utilizar la version 2019 de visual studio.
 
