@@ -16,8 +16,8 @@ Cruzero.sln es un proyecto desarrollado por Anibal Heredia Estudiante de la UTN 
 ## Tabla de contenido
 1. [Informacion General](#Info-general)
 2. [Tecnologias](#tecnologia)
-3. [Diagrama de Clases](#Diagrama De Clases)
-4. [Colaboracion](#colaboracion)
+3. [Diagrama de Clases](#diagrama de clases)
+4. [Justificacion Tecnica](#justificacion tecnica)
 5. [FAQs](#faqs)
 ### Info General
 ***
@@ -41,10 +41,8 @@ Hardcore.sln es una aplicacion para venta de pasajes en cruzeros. En la cual pod
 ```
 Información adicional: para usar la aplicación es recomendable utilizar la version 2019 de visual studio.
 
-## Colaboracion
+## Justificacion Tecnica
 ***
-Para colaborar en el proyecto podra modificar lo que desee comentandome porque lo modifico. Asi podremos verificar la mejora. 
-> Podra comentar en cualquier parte del codigo.
 
 ## FAQs
 ***
