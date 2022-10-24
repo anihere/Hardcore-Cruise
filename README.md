@@ -45,9 +45,13 @@ Información adicional: para usar la aplicación es recomendable utilizar la ver
 ***
 Una lista de usuarios y sus password
 1: User:Anibal pass: 123;
+
 2: User: Barbara Pass: 1234;
+
 3: User: Victoria Pass: 1239
+
 4: User: Ulises Pass: 1238
+
 ## Licencia
 
 [MIT]((https://www.fra.utn.edu.ar/))
