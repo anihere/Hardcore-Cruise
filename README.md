@@ -29,8 +29,8 @@ Crucero.sln es una aplicacion para venta de pasajes en cruzeros. En la cual podr
 
 ## Instalacion
 ***
-Debera descargar el archivo del repositorio. Teniendo instalado Visual Studio. Podra acceder a traves del archivo Cruzero.sln el cual iniciara Visual studio y desde alli podra iniciar la aplicacion.
-```
+Debera descargar los ficheros del repositorio. Teniendo instalado Visual Studio. Podra acceder a traves del archivo Cruzero.sln el cual iniciara Visual studio y desde alli podra iniciar la aplicacion.
+
 Información adicional: para usar la aplicación es recomendable utilizar la version 2019 de visual studio.
 
 ## Diagramas de Clases
