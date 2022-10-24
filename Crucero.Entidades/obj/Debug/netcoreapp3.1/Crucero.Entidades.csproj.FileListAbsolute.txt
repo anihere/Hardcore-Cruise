@@ -1,0 +1,30 @@
+C:\Users\ulise\Desktop\Viajes\Crucero\Crucero.Entidades\bin\Debug\netcoreapp3.1\Crucero.Entidades.deps.json
+C:\Users\ulise\Desktop\Viajes\Crucero\Crucero.Entidades\bin\Debug\netcoreapp3.1\Crucero.Entidades.dll
+C:\Users\ulise\Desktop\Viajes\Crucero\Crucero.Entidades\bin\Debug\netcoreapp3.1\Crucero.Entidades.pdb
+C:\Users\ulise\Desktop\Viajes\Crucero\Crucero.Entidades\obj\Debug\netcoreapp3.1\Crucero.Entidades.csproj.AssemblyReference.cache
+C:\Users\ulise\Desktop\Viajes\Crucero\Crucero.Entidades\obj\Debug\netcoreapp3.1\Crucero.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulise\Desktop\Viajes\Crucero\Crucero.Entidades\obj\Debug\netcoreapp3.1\Crucero.Entidades.AssemblyInfoInputs.cache
+C:\Users\ulise\Desktop\Viajes\Crucero\Crucero.Entidades\obj\Debug\netcoreapp3.1\Crucero.Entidades.AssemblyInfo.cs
+C:\Users\ulise\Desktop\Viajes\Crucero\Crucero.Entidades\obj\Debug\netcoreapp3.1\Crucero.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ulise\Desktop\Viajes\Crucero\Crucero.Entidades\obj\Debug\netcoreapp3.1\Crucero.Entidades.dll
+C:\Users\ulise\Desktop\Viajes\Crucero\Crucero.Entidades\obj\Debug\netcoreapp3.1\Crucero.Entidades.pdb
+C:\Users\ulise\Desktop\Crucero\Crucero.Entidades\bin\Debug\netcoreapp3.1\Crucero.Entidades.deps.json
+C:\Users\ulise\Desktop\Crucero\Crucero.Entidades\bin\Debug\netcoreapp3.1\Crucero.Entidades.dll
+C:\Users\ulise\Desktop\Crucero\Crucero.Entidades\bin\Debug\netcoreapp3.1\Crucero.Entidades.pdb
+C:\Users\ulise\Desktop\Crucero\Crucero.Entidades\obj\Debug\netcoreapp3.1\Crucero.Entidades.csproj.AssemblyReference.cache
+C:\Users\ulise\Desktop\Crucero\Crucero.Entidades\obj\Debug\netcoreapp3.1\Crucero.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulise\Desktop\Crucero\Crucero.Entidades\obj\Debug\netcoreapp3.1\Crucero.Entidades.AssemblyInfoInputs.cache
+C:\Users\ulise\Desktop\Crucero\Crucero.Entidades\obj\Debug\netcoreapp3.1\Crucero.Entidades.AssemblyInfo.cs
+C:\Users\ulise\Desktop\Crucero\Crucero.Entidades\obj\Debug\netcoreapp3.1\Crucero.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ulise\Desktop\Crucero\Crucero.Entidades\obj\Debug\netcoreapp3.1\Crucero.Entidades.dll
+C:\Users\ulise\Desktop\Crucero\Crucero.Entidades\obj\Debug\netcoreapp3.1\Crucero.Entidades.pdb
+D:\Documentos Ana\Escritorio\Crucero\Crucero.Entidades\bin\Debug\netcoreapp3.1\Crucero.Entidades.deps.json
+D:\Documentos Ana\Escritorio\Crucero\Crucero.Entidades\bin\Debug\netcoreapp3.1\Crucero.Entidades.dll
+D:\Documentos Ana\Escritorio\Crucero\Crucero.Entidades\bin\Debug\netcoreapp3.1\Crucero.Entidades.pdb
+D:\Documentos Ana\Escritorio\Crucero\Crucero.Entidades\obj\Debug\netcoreapp3.1\Crucero.Entidades.csproj.AssemblyReference.cache
+D:\Documentos Ana\Escritorio\Crucero\Crucero.Entidades\obj\Debug\netcoreapp3.1\Crucero.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos Ana\Escritorio\Crucero\Crucero.Entidades\obj\Debug\netcoreapp3.1\Crucero.Entidades.AssemblyInfoInputs.cache
+D:\Documentos Ana\Escritorio\Crucero\Crucero.Entidades\obj\Debug\netcoreapp3.1\Crucero.Entidades.AssemblyInfo.cs
+D:\Documentos Ana\Escritorio\Crucero\Crucero.Entidades\obj\Debug\netcoreapp3.1\Crucero.Entidades.csproj.CoreCompileInputs.cache
+D:\Documentos Ana\Escritorio\Crucero\Crucero.Entidades\obj\Debug\netcoreapp3.1\Crucero.Entidades.dll
+D:\Documentos Ana\Escritorio\Crucero\Crucero.Entidades\obj\Debug\netcoreapp3.1\Crucero.Entidades.pdb

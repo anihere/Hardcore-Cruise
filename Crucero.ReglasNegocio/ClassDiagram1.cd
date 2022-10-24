@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Crucero.ReglasNegocio.Ciudades">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ciudades.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crucero.ReglasNegocio.Cruceros">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cruceros.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crucero.ReglasNegocio.Paises">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Paises.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crucero.ReglasNegocio.Pasajeros">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAgAAAAAAAAAAAAAAAAAACAAAAAAAAAAAgAAAQ=</HashCode>
+      <FileName>Pasajeros.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crucero.ReglasNegocio.Pasaportes">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pasaportes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crucero.ReglasNegocio.Tickets">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAggAAAAAAAAAAAAAAEAAAAAAEAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Tickets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crucero.ReglasNegocio.Usuarios">
+    <Position X="2.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAQAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Usuarios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crucero.ReglasNegocio.Viajes">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAIAAAAACAABAAAgAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Viajes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
