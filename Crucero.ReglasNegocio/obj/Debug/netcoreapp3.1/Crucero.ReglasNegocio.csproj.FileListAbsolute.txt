@@ -1,0 +1,39 @@
+C:\Users\ulise\Desktop\Viajes\Crucero\Crucero.ReglasNegocio\bin\Debug\netcoreapp3.1\Crucero.ReglasNegocio.deps.json
+C:\Users\ulise\Desktop\Viajes\Crucero\Crucero.ReglasNegocio\bin\Debug\netcoreapp3.1\Crucero.ReglasNegocio.dll
+C:\Users\ulise\Desktop\Viajes\Crucero\Crucero.ReglasNegocio\bin\Debug\netcoreapp3.1\Crucero.ReglasNegocio.pdb
+C:\Users\ulise\Desktop\Viajes\Crucero\Crucero.ReglasNegocio\bin\Debug\netcoreapp3.1\Crucero.Entidades.dll
+C:\Users\ulise\Desktop\Viajes\Crucero\Crucero.ReglasNegocio\bin\Debug\netcoreapp3.1\Crucero.Entidades.pdb
+C:\Users\ulise\Desktop\Viajes\Crucero\Crucero.ReglasNegocio\obj\Debug\netcoreapp3.1\Crucero.ReglasNegocio.csproj.AssemblyReference.cache
+C:\Users\ulise\Desktop\Viajes\Crucero\Crucero.ReglasNegocio\obj\Debug\netcoreapp3.1\Crucero.ReglasNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulise\Desktop\Viajes\Crucero\Crucero.ReglasNegocio\obj\Debug\netcoreapp3.1\Crucero.ReglasNegocio.AssemblyInfoInputs.cache
+C:\Users\ulise\Desktop\Viajes\Crucero\Crucero.ReglasNegocio\obj\Debug\netcoreapp3.1\Crucero.ReglasNegocio.AssemblyInfo.cs
+C:\Users\ulise\Desktop\Viajes\Crucero\Crucero.ReglasNegocio\obj\Debug\netcoreapp3.1\Crucero.ReglasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\ulise\Desktop\Viajes\Crucero\Crucero.ReglasNegocio\obj\Debug\netcoreapp3.1\Crucero.ReglasNegocio.csproj.CopyComplete
+C:\Users\ulise\Desktop\Viajes\Crucero\Crucero.ReglasNegocio\obj\Debug\netcoreapp3.1\Crucero.ReglasNegocio.dll
+C:\Users\ulise\Desktop\Viajes\Crucero\Crucero.ReglasNegocio\obj\Debug\netcoreapp3.1\Crucero.ReglasNegocio.pdb
+C:\Users\ulise\Desktop\Crucero\Crucero.ReglasNegocio\bin\Debug\netcoreapp3.1\Crucero.ReglasNegocio.deps.json
+C:\Users\ulise\Desktop\Crucero\Crucero.ReglasNegocio\bin\Debug\netcoreapp3.1\Crucero.ReglasNegocio.dll
+C:\Users\ulise\Desktop\Crucero\Crucero.ReglasNegocio\bin\Debug\netcoreapp3.1\Crucero.ReglasNegocio.pdb
+C:\Users\ulise\Desktop\Crucero\Crucero.ReglasNegocio\bin\Debug\netcoreapp3.1\Crucero.Entidades.dll
+C:\Users\ulise\Desktop\Crucero\Crucero.ReglasNegocio\bin\Debug\netcoreapp3.1\Crucero.Entidades.pdb
+C:\Users\ulise\Desktop\Crucero\Crucero.ReglasNegocio\obj\Debug\netcoreapp3.1\Crucero.ReglasNegocio.csproj.AssemblyReference.cache
+C:\Users\ulise\Desktop\Crucero\Crucero.ReglasNegocio\obj\Debug\netcoreapp3.1\Crucero.ReglasNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulise\Desktop\Crucero\Crucero.ReglasNegocio\obj\Debug\netcoreapp3.1\Crucero.ReglasNegocio.AssemblyInfoInputs.cache
+C:\Users\ulise\Desktop\Crucero\Crucero.ReglasNegocio\obj\Debug\netcoreapp3.1\Crucero.ReglasNegocio.AssemblyInfo.cs
+C:\Users\ulise\Desktop\Crucero\Crucero.ReglasNegocio\obj\Debug\netcoreapp3.1\Crucero.ReglasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\ulise\Desktop\Crucero\Crucero.ReglasNegocio\obj\Debug\netcoreapp3.1\Crucero.ReglasNegocio.csproj.CopyComplete
+C:\Users\ulise\Desktop\Crucero\Crucero.ReglasNegocio\obj\Debug\netcoreapp3.1\Crucero.ReglasNegocio.dll
+C:\Users\ulise\Desktop\Crucero\Crucero.ReglasNegocio\obj\Debug\netcoreapp3.1\Crucero.ReglasNegocio.pdb
+D:\Documentos Ana\Escritorio\Crucero\Crucero.ReglasNegocio\bin\Debug\netcoreapp3.1\Crucero.ReglasNegocio.deps.json
+D:\Documentos Ana\Escritorio\Crucero\Crucero.ReglasNegocio\bin\Debug\netcoreapp3.1\Crucero.ReglasNegocio.dll
+D:\Documentos Ana\Escritorio\Crucero\Crucero.ReglasNegocio\bin\Debug\netcoreapp3.1\Crucero.ReglasNegocio.pdb
+D:\Documentos Ana\Escritorio\Crucero\Crucero.ReglasNegocio\bin\Debug\netcoreapp3.1\Crucero.Entidades.dll
+D:\Documentos Ana\Escritorio\Crucero\Crucero.ReglasNegocio\bin\Debug\netcoreapp3.1\Crucero.Entidades.pdb
+D:\Documentos Ana\Escritorio\Crucero\Crucero.ReglasNegocio\obj\Debug\netcoreapp3.1\Crucero.ReglasNegocio.csproj.AssemblyReference.cache
+D:\Documentos Ana\Escritorio\Crucero\Crucero.ReglasNegocio\obj\Debug\netcoreapp3.1\Crucero.ReglasNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos Ana\Escritorio\Crucero\Crucero.ReglasNegocio\obj\Debug\netcoreapp3.1\Crucero.ReglasNegocio.AssemblyInfoInputs.cache
+D:\Documentos Ana\Escritorio\Crucero\Crucero.ReglasNegocio\obj\Debug\netcoreapp3.1\Crucero.ReglasNegocio.AssemblyInfo.cs
+D:\Documentos Ana\Escritorio\Crucero\Crucero.ReglasNegocio\obj\Debug\netcoreapp3.1\Crucero.ReglasNegocio.csproj.CoreCompileInputs.cache
+D:\Documentos Ana\Escritorio\Crucero\Crucero.ReglasNegocio\obj\Debug\netcoreapp3.1\Crucero.ReglasNegocio.csproj.CopyComplete
+D:\Documentos Ana\Escritorio\Crucero\Crucero.ReglasNegocio\obj\Debug\netcoreapp3.1\Crucero.ReglasNegocio.dll
+D:\Documentos Ana\Escritorio\Crucero\Crucero.ReglasNegocio\obj\Debug\netcoreapp3.1\Crucero.ReglasNegocio.pdb
