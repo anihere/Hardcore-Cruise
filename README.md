@@ -7,7 +7,7 @@
 
 ## Bienvenido a la compania de Cruzeros 
 
-Hardocore cuenta con 7 navios con los cuales podra visitar distintos destinos.
+Hardocore cuenta con 7 aviones con los cuales podra visitar distintos destinos.
 
 ## Tabla de contenido
 1. [Informacion General](#Info-general)
@@ -17,7 +17,7 @@ Hardocore cuenta con 7 navios con los cuales podra visitar distintos destinos.
 5. [Usuario y Password](#faqs)
 ### Info General
 ***
-Crucero.sln es una aplicacion para venta de pasajes en cruzeros. En la cual podra vender ticket, ingresando como vendedor de su compania a traves de un login para controlar su manipulacion. Dentro de ella encontrara listas de todos los cruzeros y destinos donde podran viajar. Luego podra ingresar los origenes, destinos, Fecha de ida como de vuelta, Clase en la que viaja y obtener el precio del boleto. Tambien contara con informacion de los pasajeros y una estadistica de los boletos de viajes comprados. 
+Aerolineas.sln es una aplicacion para venta de pasajes. En la cual podra vender ticket, ingresando como vendedor de su compania a traves de un login para controlar su manipulacion. Dentro de ella encontrara listas de todos los cruzeros y destinos donde podran viajar. Luego podra ingresar los origenes, destinos, Fecha de ida como de vuelta, Clase en la que viaja y obtener el precio del boleto. Tambien contara con informacion de los pasajeros y una estadistica de los boletos de viajes comprados. 
 
 
 ## Tecnologias
